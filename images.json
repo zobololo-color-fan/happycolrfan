@@ -4,6 +4,27 @@
     "number": [
         {
             "bgImageName": "Zobololo_color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n379.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n380.png"
+        },
+        {
+            "bgImageName": "Zobololo_color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n381.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n382.png"
+        },
+        {
+            "bgImageName": "Zobololo_color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n383.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n384.png"
+        },
+        {
+            "bgImageName": "Zobololo_color_fan",
+            "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n385.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n386.png"
+        },
+        
+        {
+            "bgImageName": "Zobololo_color_fan",
             "bgImagePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n1.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/zobololo-color-fan/happycolrfan/refs/heads/main/n2.png"
         },
